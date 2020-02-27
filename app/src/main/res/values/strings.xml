@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RoomDBTestCRUD</string>
+    <string name="enter_phone">Enter Phone</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="insert">Insert</string>
+    <string name="count_rows">Count Rows</string>
+
+
+
+
+</resources>
